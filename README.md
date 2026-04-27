@@ -1,2 +1,2 @@
-# tech_interviews_public_data_inputs
+# Tech Interviews Data
 Data that students need for tech interview questions.
